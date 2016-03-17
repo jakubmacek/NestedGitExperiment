@@ -1,0 +1,3 @@
+[submodule "NestedGitExperiment/Assets"]
+	path = NestedGitExperiment/Assets
+	url = https://github.com/jakubmacek/NestedGitExperimentAssets.git
